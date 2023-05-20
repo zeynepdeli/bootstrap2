@@ -1,0 +1,15 @@
+body::before{
+    display: block;
+    content: '';
+    height: 70px;
+}
+
+.circle-img{
+    width: 100%;
+   
+}
+
+.lorem-img{
+    width: 500px;
+    height: 500px;
+}
